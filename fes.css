@@ -1,0 +1,16 @@
+h1{
+  color:White;
+  font-size:100px;
+  background-color: Black;
+}
+/* div{
+  width: 640px;
+  margin-right:auto;
+  margin-left: auto;
+} */
+h1,p,li{
+  text-align: center;
+}
+li{
+  list-style:none;
+}
